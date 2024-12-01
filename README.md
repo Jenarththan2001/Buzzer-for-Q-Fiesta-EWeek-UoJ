@@ -38,5 +38,12 @@ This repository contains the code and assets for the Q-Fiesta event during E-Wee
 
 ## License
 This repository is intended for educational use by students of the University of Jaffna.
+## Screenshots
+
+### UI 1
+![UI](SS1.png)
+
+### UI 2
+![UI](SS2.jpg)
 
 **Enjoy Q-Fiesta!**
