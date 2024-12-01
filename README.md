@@ -44,6 +44,6 @@ This repository is intended for educational use by students of the University of
 ![UI](SS1.png)
 
 ### UI 2
-![UI](SS2.jpg)
+![UI](SS2.png)
 
 **Enjoy Q-Fiesta!**
